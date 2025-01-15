@@ -1,0 +1,24 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Tkinter GUI compiled files (if any)
+*.tkinter
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
